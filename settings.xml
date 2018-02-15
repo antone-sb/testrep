@@ -8,6 +8,7 @@
     <con:repositoryIdentifier>https://github.com/antone-sb/testrep</con:repositoryIdentifier>
   </con:vcsConfiguration>
   <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:requirements/>
   <con:properties/>
   <con:wssContainer/>
   <con:databaseConnectionContainer/>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testCase id="fcb2a829-e543-4cf7-9536-ae3fdf11356f" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="FTP TestCase" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:settings>
+    <con:setting id="fcb2a829-e543-4cf7-9536-ae3fdf11356ffileName">FTP-TestCase</con:setting>
+  </con:settings>
+  <con:savedRecentRuns>1</con:savedRecentRuns>
+  <con:testStep type="ftp" name="FTP" id="07575ee5-54ab-48b4-acc5-983b97f71e01">
+    <con:settings/>
+    <con:config xsi:type="con:FTPTestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <con:host>10.0.81.149</con:host>
+      <con:port>21</con:port>
+      <con:user>Anton.Egorov</con:user>
+      <con:password>a37kd8C7</con:password>
+      <con:transaction>
+        <con:fileName>DataSink.xlsx</con:fileName>
+        <con:localPath>C:\Users\Anton.Egorov\Documents\DataSink.xlsx</con:localPath>
+      </con:transaction>
+    </con:config>
+  </con:testStep>
+  <con:properties/>
+  <con:reportParameters/>
+</con:testCase>
