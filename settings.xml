@@ -3,6 +3,10 @@
   <con:settings>
     <con:setting id="a93bd329-03a2-4d1c-9170-4d7bf09c68e7fileName">Project-2-readyapi-project</con:setting>
   </con:settings>
+  <con:vcsConfiguration>
+    <con:vcsName>Git</con:vcsName>
+    <con:repositoryIdentifier>https://github.com/antone-sb/testrep</con:repositoryIdentifier>
+  </con:vcsConfiguration>
   <con:savedRecentRuns>1</con:savedRecentRuns>
   <con:properties/>
   <con:wssContainer/>
