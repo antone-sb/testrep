@@ -8,7 +8,7 @@
     <con:settings/>
     <con:config xsi:type="con:FTPTestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
       <con:host>10.0.81.149</con:host>
-      <con:port>22</con:port>
+      <con:port>21</con:port>
       <con:user>Anton.Egorov</con:user>
       <con:password>a37kd8C7</con:password>
       <con:transaction>
