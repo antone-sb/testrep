@@ -4,7 +4,7 @@
     <con:setting id="6a19c9f4-6267-45ab-8246-fdcff62cbdd7fileName">TestCase-1</con:setting>
   </con:settings>
   <con:savedRecentRuns>1</con:savedRecentRuns>
-  <con:testStep type="groovy" name="Groovy Script" id="6079806e-91d5-4176-a01e-c06342e67c02">
+  <con:testStep type="groovy" name="Groovy Script Edited" id="6079806e-91d5-4176-a01e-c06342e67c02">
     <con:settings/>
     <con:config>
       <script/>
